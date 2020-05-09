@@ -95,7 +95,7 @@ def main():
               print(mudskippah)
               pass
             
-    extracted_results
+    
 
     with open(HOST+'_subdomains.json', 'w') as outfile:
        for sub_domain in extracted_results:
